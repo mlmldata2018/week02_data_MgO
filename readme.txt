@@ -1,5 +1,4 @@
-Data from Table 3.14.3 of Emery and Thomson, Data Analysis Techniques in Physical Oceanography, 2nd ed.
+Data from Table 10.1 of McKillup and Dyar, Geostatistics Explained, Cambridge University Press, 2010.
 
-Temperatures in degrees C measured by three different CTDs in the same calibration tank. 
-
-Four measurements from each CTD are used.
+Values are the weight percent of MgO present in tourmalines from three locations in Maine.
+Each CSV file contains the same data in a different format.
